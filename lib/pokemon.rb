@@ -24,3 +24,4 @@ lass Pokemon
     self.hp = num
   end
 end
+end
