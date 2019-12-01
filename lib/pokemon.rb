@@ -1,4 +1,6 @@
-lass Pokemon
+require "pry"
+
+class Pokemon
   attr_accessor :name, :type, :db, :id, :hp
 
 @@all = []
